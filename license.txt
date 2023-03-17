@@ -2,7 +2,7 @@
 Template License 
 --------------------------------------------
 
-Template Name : Daily Shop
+Template Name : Fashion Frezy
 Author : MarkUps
 Author URL : http://www.markups.io/
 License URL : http://www.markups.io/license   
